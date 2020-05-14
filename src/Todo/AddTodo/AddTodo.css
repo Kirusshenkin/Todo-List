@@ -1,0 +1,22 @@
+form {
+    margin-bottom: 1rem;
+}
+
+form input {
+    color: #fff;
+    background: #303339;
+    border: #222428;
+    padding: 10px;
+    height: 8px;
+    line-height: 24px;
+    width: 76.5%;
+    margin: 0;
+}
+
+input:hover {
+    border-color: #040405;
+}
+
+input:focus {
+    border-color: #7289da;
+}
